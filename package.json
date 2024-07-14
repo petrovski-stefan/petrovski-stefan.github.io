@@ -1,6 +1,7 @@
 {
   "name": "petrovski-stefan",
   "private": true,
+  "homepage": "https://petrovski-stefan.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
