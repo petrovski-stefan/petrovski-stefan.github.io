@@ -4,7 +4,10 @@ export function LinkedinIcon() {
   return (
     <div className="w-7 h-7 hover:scale-110">
       <div className="w-7 h-7">
-        <a href="https://www.linkedin.com/in/stefan-petrovski-8258b7259/">
+        <a
+          href="https://www.linkedin.com/in/stefan-petrovski-8258b7259/"
+          target="_blank"
+        >
           <Linkedin
             height="28px"
             width="28px"

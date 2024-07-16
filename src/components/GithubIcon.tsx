@@ -1,7 +1,10 @@
 export function GithubIcon() {
   return (
     <div className="w-7 h-7 hover:scale-110">
-      <a href="https://github.com/petrovski-stefan">
+      <a
+        href="https://github.com/petrovski-stefan"
+        target="_blank"
+      >
         <svg
           role="icon"
           viewBox="0 0 24 24"
